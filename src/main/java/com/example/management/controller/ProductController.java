@@ -31,8 +31,5 @@ public class ProductController {
         return service.showProducts();
     }
 
-//    @PostMapping("/takepath/{name}")
-//    public String takeName(@PathVariable String name) {
-//        return "Hello, this is a path"+ name;
-//    }
+
 }
